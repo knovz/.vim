@@ -1,3 +1,6 @@
 [submodule "bundle/vim-neatstatus"]
 	path = bundle/vim-neatstatus
 	url = https://github.com/maciakl/vim-neatstatus.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
