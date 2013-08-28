@@ -97,3 +97,6 @@ map <leader>1 :bn<CR>
 set noswapfile
 set nobackup
 set nowb
+
+"vim-autoclose
+"let g:AutoClosePairs_add = "<>"
