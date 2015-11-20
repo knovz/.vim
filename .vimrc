@@ -75,8 +75,8 @@ set undolevels=1000
 set mouse=a
 
 "syntax enable
-set background=dark
-colorscheme solarized
+" set background=dark
+" colorscheme solarized
 
 "NERDTree
 let NERDTreeShowHidden=1
